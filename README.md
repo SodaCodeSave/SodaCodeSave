@@ -1,3 +1,6 @@
 ## 👋 你好~
-![Stats](https://github-readme-stats.vercel.app/api?username=SodaCodeSave&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SodaCodeSave&hide=html)
+我是苏打，初二学生，正在学习Python、Vue、C++，只要有时间就会来Github看看
+
+## 📪 联系方式
+[哔哩哔哩](https://space.bilibili.com/695791514)
+[Gitee](http://gitee.com/suda_code/)
