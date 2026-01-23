@@ -6,7 +6,7 @@
 
 正在尝试学习GoLang和Vue，最喜欢的语言是Python
 
-## � 我参与开发的项目
+## 🛠️ 我参与开发的项目
 
 - **星塔旅人自动助手** (`MaaStellaSora/MaaStellaSora`)
   提供对于游戏《星塔旅人》的自动签到、清理日常等功能，由 MaaFramework 强力驱动
@@ -20,7 +20,7 @@
   自动截取游戏二维码并提供给客户端使用的工具
   [GitHub](https://github.com/SodaCodeSave/QRMai)
 
-## �📪 联系方式
+## 📪 联系方式
 
 - [哔哩哔哩](https://space.bilibili.com/695791514) - 我的哔哩哔哩主页
 - [GitHub](https://github.com/SodaCodeSave) - 我的Github主页
@@ -28,6 +28,6 @@
 
 ## 📊 统计数据
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SodaCodeSave&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SodaCodeSave&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SodaCodeSave&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SodaCodeSave&layout=compact&ignore_languages=html)
