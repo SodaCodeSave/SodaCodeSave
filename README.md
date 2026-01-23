@@ -28,6 +28,6 @@
 
 ## 📊 统计数据
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SodaCodeSave&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SodaCodeSave&show_icons=true&locale=zh-CN)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SodaCodeSave&layout=compact&ignore_languages=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SodaCodeSave&layout=compact&locale=zh-CN)
