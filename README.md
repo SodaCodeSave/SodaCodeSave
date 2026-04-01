@@ -13,13 +13,13 @@
   提供对于游戏《星塔旅人》的自动签到、清理日常等功能，由 MaaFramework 强力驱动
   [GitHub](https://github.com/MaaStellaSora/MaaStellaSora)
 
-- **123云盘开放平台非官方PythonSDK** (`Pan123`)
+- **AstrBot BiliRead插件** (`astrbot_plugin_biliread`)
 
-  123云盘API的Python封装，方便开发者快速接入123云盘服务
+  告别机械式的视频大纲复制，让你的 AstrBot 拥有真正“看懂” B 站视频的能力。
   
-  *由于123云盘开放平台需要额外购买开发者权益包，且仓库年久失修，现已存档，正在计划重构*
-  
-  [GitHub](https://github.com/SodaCodeSave/Pan123)
+  AI太好用了你们知道吗
+    
+  [GitHub](https://github.com/SodaCodeSave/astrbot_plugin_biliread)
 
 - **动态截取舞萌DX、中二节奏登录二维码并返还给客户端** (`QRMai`)
 
